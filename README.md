@@ -28,4 +28,4 @@ Follow the steps below to set up and run the application:
 
 
 ![Main Page](./public/listpage.png)
-![List Page](./public/listpage.png)
+![List Page](./public/detailspage.png)
