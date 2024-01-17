@@ -26,6 +26,8 @@ Follow the steps below to set up and run the application:
 ## View The App on Xcode
 ###   ```npx cap open ios```
 
+<img src="./public/detailspage.png" alt="App Logo" style="width: 100px; height: 100px;">
+
 
 ![Main Page](./public/listpage.png)
 ![List Page](./public/detailspage.png)
