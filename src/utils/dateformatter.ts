@@ -13,7 +13,6 @@ export function formatDateToMonthYearAndDay(dateString: string, full = true): st
   
     const monthInWords = months[parseInt(month, 10) - 1];
   
-    // Add suffix to day (e.g., "1st", "2nd", "3rd", "4th", etc.)
     const dayWithSuffix = getDayWithSuffix(parseInt(day, 10));
     if(full){
 
