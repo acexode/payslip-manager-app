@@ -1,0 +1,12 @@
+body {
+  font-family: "CircularStd", sans-serif;
+  font-size: 15px;
+  color: #1f1f1f;
+  background-color: #f7f7f7;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
